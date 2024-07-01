@@ -1,5 +1,5 @@
 /*
-O problema 1 do Project Euler é o seguinte:
+O problema 1 do Project Euler é o seguinte: https://projecteuler.net/problem=1
 
 Se listarmos todos os números naturais abaixo de 10 que são múltiplos de 3 ou 5,
 obtemos 3, 5, 6 e 9. A soma desses múltiplos é 23.
