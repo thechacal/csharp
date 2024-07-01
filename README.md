@@ -1,3 +1,3 @@
 # C#
 
-Some codes in C#
+Resolution of problems with C#
