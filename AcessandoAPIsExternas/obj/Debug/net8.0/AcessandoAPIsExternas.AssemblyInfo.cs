@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AcessandoAPIsExternas")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+844342da855d50e0346cbb3ab078507f87bffe4a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a05db2ec17148826a39792c5fe264e796cb49f3d")]
 [assembly: System.Reflection.AssemblyProductAttribute("AcessandoAPIsExternas")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AcessandoAPIsExternas")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
