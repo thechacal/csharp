@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("AcessandoAPIsExternas")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("CFEService")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+86e1e3593bcaa9ff2f43861aeec0da8232d661ab")]
-[assembly: System.Reflection.AssemblyProductAttribute("AcessandoAPIsExternas")]
-[assembly: System.Reflection.AssemblyTitleAttribute("AcessandoAPIsExternas")]
+[assembly: System.Reflection.AssemblyProductAttribute("CFEService")]
+[assembly: System.Reflection.AssemblyTitleAttribute("CFEService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Gerado pela classe WriteCodeFragment do MSBuild.
